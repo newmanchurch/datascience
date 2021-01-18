@@ -1,0 +1,8 @@
+﻿.ipynb_checkpoints/
+.vs/
+*/.ipynb_checkpoints/*
+denv/
+booksDownload/
+data/
+newcore/__pycache__/*
+
