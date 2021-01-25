@@ -1,0 +1,1 @@
+denv/Scripts/activate.bat
